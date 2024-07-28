@@ -1,0 +1,51 @@
+body {
+    font-size: 20pt;
+}
+#container{
+  border: 1px solid #A4A9E0;
+  margin:5px;
+  width: 360px;
+  height :800px;
+}
+#display{
+  border: 2px solid black;
+  margin :10px;
+  width: 330px;
+  height: 100px;
+  border-radius: 20px;
+  font-size: 55px;
+}
+
+.button{
+  width: 90px;
+  height: 90px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #CBE8CD;
+  font-size: 34px;
+  border-radius: 30px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+}
+
+.Md-button{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+button:hover{
+  background: linear-gradient(to left,#94CC9F,#33B44D);
+  transform: scale(1.06);
+  transition-duration: 1s;
+  box-shadow: 0px 5px 15px rgba(0,0,0,1.1);
+}
+
+#but{
+  width:290px;
+  height: 90px;
+  border-radius: 30px;
+  padding: 5px;
+  margin: 5px;
+  background-color: #CBE8CD;
+  font-size: 34px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+}
