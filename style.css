@@ -26,12 +26,12 @@ body {
   border-radius: 30px;
   box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
 }
-
+/* 
 .Md-button{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-}
+} */
 button:hover{
   background: linear-gradient(to left,#94CC9F,#33B44D);
   transform: scale(1.06);
